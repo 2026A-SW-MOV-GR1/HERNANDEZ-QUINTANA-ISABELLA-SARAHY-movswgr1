@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216604296798",
+    "project_id": "moviles-2026a-gr1-ishq",
+    "storage_bucket": "moviles-2026a-gr1-ishq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216604296798:android:f65a16eef24a9df79f16cf",
+        "android_client_info": {
+          "package_name": "com.example.moviles2026aswgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65nOPSCnK2VGJFI6ulxxVXnPMKmw50Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
