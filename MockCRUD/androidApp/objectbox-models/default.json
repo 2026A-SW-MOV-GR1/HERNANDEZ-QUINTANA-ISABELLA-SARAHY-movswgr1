@@ -1,0 +1,96 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:2782232378452549258",
+      "lastPropertyId": "10:2616360908315786074",
+      "name": "ItemNoSQL",
+      "properties": [
+        {
+          "id": "1:8876025218627365790",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:5204901833035699797",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:6909820470188501093",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "4:5065146947735047008",
+          "name": "imageUrl",
+          "type": 9
+        },
+        {
+          "id": "5:4740214710317129840",
+          "name": "author",
+          "type": 9
+        },
+        {
+          "id": "6:7795186248969196642",
+          "name": "startDate",
+          "type": 6
+        },
+        {
+          "id": "7:9170105602994469571",
+          "name": "endDate",
+          "type": 6
+        },
+        {
+          "id": "8:1356759422047189704",
+          "name": "readingLog",
+          "type": 9
+        },
+        {
+          "id": "9:5565153126734985443",
+          "name": "status",
+          "type": 9
+        },
+        {
+          "id": "10:2616360908315786074",
+          "name": "epubUri",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:2548390365465766851",
+      "lastPropertyId": "2:4517619855783446125",
+      "name": "GlobalLogNoSQL",
+      "properties": [
+        {
+          "id": "1:6168271127234097707",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:4517619855783446125",
+          "name": "date",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "2:2548390365465766851",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
