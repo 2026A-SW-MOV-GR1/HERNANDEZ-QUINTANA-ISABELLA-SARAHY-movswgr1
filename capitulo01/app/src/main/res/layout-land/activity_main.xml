@@ -7,18 +7,18 @@
     android:background="@color/taller_background_color">
 
     <TextView
-        android:id="@+id/tvMessage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:padding="24dp"
+        android:id="@+id/tvSaludo"
+        android:layout_width="540dp"
+        android:layout_height="136dp"
         android:text="@string/saludo"
         android:textColor="@color/taller_text_color"
-        android:textSize="24sp"
+        android:textSize="32sp"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:visibility="visible" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="taller_text_color">#B71C1C</color>
+    <color name="taller_background_color">#FFEBEE</color>
 </resources>

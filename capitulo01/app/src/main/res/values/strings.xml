@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">moviles2026aswgr1</string>
+    <string name="app_name">Taller Recursos</string>
+    <string name="taller_message"> Hola mundo</string>
 </resources>
