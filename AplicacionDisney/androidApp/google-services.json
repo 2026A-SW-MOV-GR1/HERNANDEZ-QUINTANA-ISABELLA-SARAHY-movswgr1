@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054740999273",
+    "project_id": "disneyplus-ab27b",
+    "storage_bucket": "disneyplus-ab27b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054740999273:android:cc357db2ab3b77bd9546f8",
+        "android_client_info": {
+          "package_name": "com.example.aplicaciondisney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMuAZOhrwmWNC9vS9Lq4syT2xDLsTy8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054740999273:android:eef5baf409d093d69546f8",
+        "android_client_info": {
+          "package_name": "com.example.disneyplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMuAZOhrwmWNC9vS9Lq4syT2xDLsTy8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
