@@ -1,0 +1,8 @@
+- `[x]` Implementar logs del ciclo de vida en `MainActivity.kt`
+- `[x]` Diseñar UI "Olimpo" con temática de Zeus en `App.kt`
+- `[x]` Asegurar persistencia de estado con `rememberSaveable`
+- `[x]` Verificar logs y comportamiento de rotación
+- `[x]` Implementar paso de logs de `MainActivity` a la UI
+- `[x]` Añadir botón "Ira de Hera" y lógica de reinicio
+- `[x]` Crear layout adaptativo (Vertical/Horizontal)
+- `[x]` Mostrar consola de logs en la interfaz
